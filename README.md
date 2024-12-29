@@ -15,7 +15,7 @@ You can inquire about personal health-related questions, which include:
 - Medication schedule
 - Medical procedures
 
-**Important Note:** When asking personal questions, it's essential to provide the exact name along with the question. Currently, personal questions can only be asked about the following individuals (Elijah Fisher, Medlock John, Camila Maria Lopez) as provided in the test data set. Privacy concerns are not yet considered, but in the future, user information will be segregated in the knowledge base to protect privacy.
+**Important Note:** When asking personal questions, it's essential to provide the exact name along with the question. Currently, personal questions can only be asked about the following individuals _(Elijah Fisher, Medlock John, Camila Maria Lopez)_ as provided in the test data set. Privacy concerns are not yet considered, but in the future, user information will be segregated in the knowledge base to protect privacy.
 
 ### 2. Specific ID Information
 You can request information related to specific IDs, such as:
